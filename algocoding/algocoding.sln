@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "algocoding", "algocoding\algocoding.vcproj", "{71BD4902-DB4D-45D2-A995-BB02A061E65C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "bitfiddling", "..\linklist\bitfiddling\bitfiddling.vcproj", "{3A483D96-DBA0-47A4-B673-ED7B035590D4}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "structure", "..\linklist\structure\structure.vcproj", "{C762DD14-5E65-4458-8751-5030E06AD05E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "pointer", "..\linklist\pointer\pointer.vcproj", "{C9C91199-5F7F-4775-9CB4-AC45130CB738}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71BD4902-DB4D-45D2-A995-BB02A061E65C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{71BD4902-DB4D-45D2-A995-BB02A061E65C}.Debug|Win32.Build.0 = Debug|Win32
+		{71BD4902-DB4D-45D2-A995-BB02A061E65C}.Release|Win32.ActiveCfg = Release|Win32
+		{71BD4902-DB4D-45D2-A995-BB02A061E65C}.Release|Win32.Build.0 = Release|Win32
+		{3A483D96-DBA0-47A4-B673-ED7B035590D4}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3A483D96-DBA0-47A4-B673-ED7B035590D4}.Debug|Win32.Build.0 = Debug|Win32
+		{3A483D96-DBA0-47A4-B673-ED7B035590D4}.Release|Win32.ActiveCfg = Release|Win32
+		{3A483D96-DBA0-47A4-B673-ED7B035590D4}.Release|Win32.Build.0 = Release|Win32
+		{C762DD14-5E65-4458-8751-5030E06AD05E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C762DD14-5E65-4458-8751-5030E06AD05E}.Debug|Win32.Build.0 = Debug|Win32
+		{C762DD14-5E65-4458-8751-5030E06AD05E}.Release|Win32.ActiveCfg = Release|Win32
+		{C762DD14-5E65-4458-8751-5030E06AD05E}.Release|Win32.Build.0 = Release|Win32
+		{C9C91199-5F7F-4775-9CB4-AC45130CB738}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C9C91199-5F7F-4775-9CB4-AC45130CB738}.Debug|Win32.Build.0 = Debug|Win32
+		{C9C91199-5F7F-4775-9CB4-AC45130CB738}.Release|Win32.ActiveCfg = Release|Win32
+		{C9C91199-5F7F-4775-9CB4-AC45130CB738}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
